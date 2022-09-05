@@ -3,5 +3,5 @@ HUGO_VERSION = "0.102.3"
 
 [[redirects]]
 from = "/v1.0.0/*"
-to = "https://stellar-pastelito-62bbb4.netlify.app/:splat"
+to = "https://1-0-0--verdant-starlight-b740f8.netlify.app/:splat"
 status = 200
