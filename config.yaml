@@ -1,4 +1,4 @@
-baseURL: https://1-0-0--verdant-starlight-b740f8.netlify.app
+baseURL: https://1-0-0--verdant-starlight-b740f8.netlify.app/
 languageCode: 'en-us'
 title: 'My New Hugo Site'
 theme: github.com/spf13/hyde
